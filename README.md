@@ -36,6 +36,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> 
 </div>
 
+<br />
+
 #### 🌱 Now Studing
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> 
