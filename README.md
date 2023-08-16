@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 <br />
 
 ## 🚀 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoojeongKwon&show_icons=true&theme=transparent)
+![Yoojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoojeongKwon&show_icons=true&theme=gruvbox)
