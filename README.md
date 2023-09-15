@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#### 📝 Blog
+## 📝 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyjeong)](https://github.com/kyjeong/velog-readme-stats)
 
 <br />
