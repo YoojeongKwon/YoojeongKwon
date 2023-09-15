@@ -43,6 +43,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> 
 </div>
 
+<br />
+
+#### 📝 Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyjeong)](https://github.com/kyjeong/velog-readme-stats)
 
 <br />
 
