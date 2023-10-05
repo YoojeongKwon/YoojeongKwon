@@ -1,4 +1,4 @@
-### Hello, I'm Yoojeong! 👋
+<h3 align='center'>Hello, I'm Yoojeong! 👋</h3>
 
 <!--
 **YoojeongKwon/YoojeongKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
